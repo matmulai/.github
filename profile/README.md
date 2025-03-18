@@ -2,5 +2,5 @@
 
 Advancing GenAI, one matrix multiplication at a time!
 
-We build tools that leverage GenAI and tools and data that enhance GenAI.
+We build tools and create datasets that improve GenAI. We also build productivity tools that leverage GenAI. 
 
